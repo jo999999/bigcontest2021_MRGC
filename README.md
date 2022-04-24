@@ -12,7 +12,8 @@
 
 
 ## 데이터 
-![image](https://user-images.githubusercontent.com/77534419/164959764-5e6c420a-e609-4a91-9d6f-69b98fc8a013.png)
-![image](https://user-images.githubusercontent.com/77534419/164959776-66bac2a1-82d2-42b4-ad22-4f9bb2650e18.png)
+![image](https://user-images.githubusercontent.com/77534419/164959820-0ef9ab9a-d84c-4c85-a268-c605ba659fb9.png)
+![image](https://user-images.githubusercontent.com/77534419/164959811-4a6ed994-39df-4390-9569-5b6c2511cfc5.png)
+
 
 
